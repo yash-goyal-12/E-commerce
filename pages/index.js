@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Codeswear-wear the code</title>
         <meta name="description" content="CodesWear.com - wear the code" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
